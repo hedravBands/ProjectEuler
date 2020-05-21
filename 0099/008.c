@@ -37,7 +37,7 @@ int main(void)
     if (p > max) {
       max = p;
     } // end if
-  } end for outter
+  } // end for outter
   printf("%u\n", max);
   //return 0;
 } // end main
