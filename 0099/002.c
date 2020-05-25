@@ -11,5 +11,5 @@ int main(void)
     a2 = a3;
 } //end while
   printf("%u\n", sum);
-  return 0;
+  //return 0;
 }
