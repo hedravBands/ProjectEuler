@@ -5,7 +5,7 @@ int main(void)
   unsigned long long n = 600851475143ULL; //large large integer
   unsigned long long i;
 
-  for (i = 2ULL; i < n; i++) 
+  for (i = 2ULL; i < n; i++) //interaction 
 	{
     		while (n % i == 0) 
 		{
