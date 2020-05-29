@@ -15,5 +15,5 @@ int main(void)
 
   printf("%llu\n", n); // not llu as type of variable
 
-  return 0;
+  //return 0;
 }
