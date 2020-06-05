@@ -39,5 +39,5 @@ int main(void)
     } // end if
   } // end for outter
   printf("%u\n", max);
-  //return 0;
-} // end main
+  return 0;
+} end main
